@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f021ea9-8013-4ba1-8360-a2f5f59bfc80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="417" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1XqgtfgZKbFtfKDAFZUBwlCPfKk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fyp-backend" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/tatrasoft/algo">
+    <configuration name="go build github.com/tatrasoft/algo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/tatrasoft/algo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDecToBase in github.com/tatrasoft/algo/dec-to-base" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/dec-to-base" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/tatrasoft/algo/dec-to-base" />
+      <pattern value="^TestDecToBase$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFizzBuzz in github.com/tatrasoft/algo/fizz-buzz" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/fizz-buzz" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/tatrasoft/algo/fizz-buzz" />
+      <pattern value="^TestFizzBuzz$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_GetBase in github.com/tatrasoft/algo/dec-to-base" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/dec-to-base" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/tatrasoft/algo/dec-to-base" />
+      <pattern value="^Test_GetBase$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench github.com/tatrasoft/algo/fizz-buzz" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/fizz-buzz" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/tatrasoft/algo/fizz-buzz" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/tatrasoft/algo" />
+        <item itemvalue="Go Test.TestDecToBase in github.com/tatrasoft/algo/dec-to-base" />
+        <item itemvalue="Go Test.Test_GetBase in github.com/tatrasoft/algo/dec-to-base" />
+        <item itemvalue="Go Test.gobench github.com/tatrasoft/algo/fizz-buzz" />
+        <item itemvalue="Go Test.TestFizzBuzz in github.com/tatrasoft/algo/fizz-buzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581849479668">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581849479668" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1582029271575">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582029271575" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581797781493" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1582029271575">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582029271575" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581797781493" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1582029271575">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582029271575" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581797781492" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1582029271575">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582029271575" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581797781493" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581791062527">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581791062527" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581791062527">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581791062527" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581791062526">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581791062526" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581791062527">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581791062527" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algo$go_test_github_com_tatrasoft_algo_search.out" NAME="go test github.com/tatrasoft/algo/search Coverage Results" MODIFIED="1581779949321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/algo$gobench_github_com_tatrasoft_algo_sum.out" NAME="gobench github.com/tatrasoft/algo/sum Coverage Results" MODIFIED="1581780646022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/algo$gobench_github_com_tatrasoft_algo_fizz_buzz.out" NAME="gobench github.com/tatrasoft/algo/fizz-buzz Coverage Results" MODIFIED="1581791062489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
